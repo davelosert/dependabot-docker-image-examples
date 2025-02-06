@@ -2,5 +2,5 @@ replicaCount: 1
 
 image:
   repository: nginx
-  tag: 1.27.2
+  tag: 1.27.4
   registry: docker.io
